@@ -1,7 +1,8 @@
 
   # TutorMate Web Prototype
 
-  This is a code bundle for TutorMate Web Prototype. The original project is available at https://www.figma.com/design/MPpyLlenxIGKVn8wJIfQ2y/TutorMate-Web-Prototype.
+ A mobile/web platform where Covenant students (and later other schools) can teach or book 1-on-1 or group tutorials in tech, programming, courses, exam prep, etc. Paid or free. Safe, rated, easy scheduling, in-app payment/wallet.
+
 
   ## Running the code
 
